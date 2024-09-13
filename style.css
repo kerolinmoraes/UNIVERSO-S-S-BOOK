@@ -1,0 +1,9 @@
+@import url("styles/header.css");
+
+:root {
+    --preto: #00000
+
+
+     --azul-degrade: linear-gradient(97.54 deg, #002FS2 35.49%, #326589 165.37%)
+
+}
