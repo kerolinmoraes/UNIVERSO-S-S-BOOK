@@ -38,4 +38,8 @@
     font-weight: 700px;
 }
 
-.
+.lista-menu__link {
+    background: var(--azul-degrade);
+    background-clip: text;
+    text-transform: uppercase;
+}
